@@ -2,7 +2,7 @@ import 'package:bdk_flutter/bdk_flutter.dart';
 import 'package:bdk_wallet/domain/blockchain/entity/blockchain.dart';
 import 'package:bdk_wallet/domain/blockchain/failure/blockchain_failure.dart';
 import 'package:bdk_wallet/domain/blockchain/interface/i_blockchain_serivice.dart';
-import 'package:bdk_wallet/infrastructure/blockchain/DTO/blockchain_dto.dart';
+import 'package:bdk_wallet/infrastructure/blockchain/dto/blockchain_dto.dart';
 import 'package:dartz/dartz.dart';
 import 'package:injectable/injectable.dart';
 
